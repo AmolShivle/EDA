@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analysis on IPL data
+-Exploratory Data Analysis
